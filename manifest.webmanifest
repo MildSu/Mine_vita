@@ -1,0 +1,12 @@
+{
+  "name": "Mine Vita",
+  "short_name": "Mine Vita",
+  "description": "Private habit, food, mood and five-frogs tracker.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfbf8",
+  "theme_color": "#eef7ef",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
